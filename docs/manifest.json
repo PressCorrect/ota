@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.0.1",
-  "build_date_utc": "2026-02-15T12:40:05Z",
+  "latest_version": "1.0.2",
+  "build_date_utc": "2026-02-15T13:31:47Z",
   "file": {
-    "url": "https://github.com/PressCorrect/ota/releases/download/v1.0.1/Firmware.ino.bin",
+    "url": "https://github.com/PressCorrect/ota/releases/download/v1.0.2/Firmware.ino.bin",
     "sha256": "5300aec7c5486f443d3b47ede3ba357ad93d5f875c397c83ba3959e1a0edfb45",
     "size_bytes": 155924
   },
-  "notes": "Bug fixes + tuning"
+  "notes": "Hello Zhe"
 }
